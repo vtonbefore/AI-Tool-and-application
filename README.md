@@ -66,7 +66,7 @@ This assignment explores key areas of AI and Machine Learning, covering:
 
 ## 🎥 Group Video Presentation
 
-📺 [Insert Video Link Here]  
+📺 
 A short video where I explain the project goals, tools used, and what I learned.
 
 ---
